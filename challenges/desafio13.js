@@ -13,4 +13,4 @@ db.produtos.find(
         criadoPor: 1,
         _id: 0,
     },
-);
+).pretty();
