@@ -39,7 +39,7 @@
 
     # Entrar no diretório
 
-    $ cd introducao-mySql
+    $ cd introducao_mongoDB
 
 ```
 
